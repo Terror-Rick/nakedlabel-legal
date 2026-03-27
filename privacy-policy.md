@@ -6,7 +6,7 @@ Here it is — ready to host:
 
 **App:** NakedLabel
 **Developer:** Skyler Daniel
-**Effective Date:** [EFFECTIVE_DATE]
+**Effective Date:** 3/27/2026
 
 ---
 
@@ -96,9 +96,8 @@ When changes are made, the Effective Date will be updated. Continued use after c
 ## 8. Contact
 
 **Skyler Daniel**
-Email: [YOUR_EMAIL]
+Email: support@nakedlabel.org
 Response time: within 30 days.
 
 ---
 
-**To publish:** Replace `[YOUR_EMAIL]` and `[EFFECTIVE_DATE]`, paste into a GitHub Pages file, Notion public page, or Google Sites — then use that URL in Play Console.
