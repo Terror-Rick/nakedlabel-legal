@@ -1,5 +1,3 @@
-Here it is — ready to host:
-
 ---
 
 # Privacy Policy
@@ -95,7 +93,7 @@ When changes are made, the Effective Date will be updated. Continued use after c
 
 ## 8. Contact
 
-**Skyler Daniel**
+**NakedLabel Support**
 Email: support@nakedlabel.org
 Response time: within 30 days.
 
