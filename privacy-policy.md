@@ -1,10 +1,8 @@
----
-
 # Privacy Policy
 
 **App:** NakedLabel
-**Developer:** Skyler Daniel
-**Effective Date:** 3/27/2026
+**Developer:** NakedLabel Support
+**Effective Date:** March 27, 2026
 
 ---
 
@@ -76,18 +74,18 @@ All Firebase data is restricted by security rules to your authenticated UID. All
 
 ## 5. Your Rights and Choices
 - **Delete scan history:** Available anytime in app settings.
-- **Request data deletion:** Email [YOUR_EMAIL] with your anonymous UID (found in app settings). We will delete within 30 days.
+- **Request data deletion:** Email support@nakedlabel.org with your anonymous UID (found in app settings). We will delete your data within 30 days.
 - **Google Sign-In users:** Revoke access via [Google Account Settings](https://myaccount.google.com/permissions).
 
 ---
 
 ## 6. Children's Privacy
-NakedLabel is not directed at children under 13. We do not knowingly collect information from children under 13. Contact [YOUR_EMAIL] to report any concerns.
+NakedLabel is not directed at children under 13. We do not knowingly collect information from children under 13. Contact support@nakedlabel.org to report any concerns.
 
 ---
 
 ## 7. Changes to This Policy
-When changes are made, the Effective Date will be updated. Continued use after changes take effect constitutes acceptance.
+When changes are made, the Effective Date at the top of this page will be updated. Continued use of the app after changes take effect constitutes your acceptance of the updated policy.
 
 ---
 
@@ -96,6 +94,3 @@ When changes are made, the Effective Date will be updated. Continued use after c
 **NakedLabel Support**
 Email: support@nakedlabel.org
 Response time: within 30 days.
-
----
-
